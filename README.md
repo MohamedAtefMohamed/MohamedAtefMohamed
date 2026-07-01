@@ -28,7 +28,7 @@
 <tr>
 <td>
 
-I'm an offensive security engineer from Cairo.  
+I'm an offensive security engineer and Bug Hunter.  
 I break things for a living, build tools to catch what others miss,  
 and compete in CTFs because sleep is overrated.
 
