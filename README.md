@@ -1,140 +1,58 @@
-<div align="center">
+# Mohamed Atef
 
-```
-██╗     ██╗ ██████╗ ██╗  ██╗████████╗ ██████╗ ██╗  ██╗██╗   ██╗ █████╗  ██████╗ ███╗   ███╗██╗
-██║     ██║██╔════╝ ██║  ██║╚══██╔══╝██╔═████╗╚██╗██╔╝╚██╗ ██╔╝██╔══██╗██╔════╝ ████╗ ████║██║
-██║     ██║██║  ███╗███████║   ██║   ██║██╔██║ ╚███╔╝  ╚████╔╝ ███████║██║  ███╗██╔████╔██║██║
-██║     ██║██║   ██║██╔══██║   ██║   ████╔╝██║ ██╔██╗   ╚██╔╝  ██╔══██║██║   ██║██║╚██╔╝██║██║
-███████╗██║╚██████╔╝██║  ██║   ██║   ╚██████╔╝██╔╝ ██╗   ██║   ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║
-╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝
-```
+**Security researcher and offensive-security builder focused on web and API testing, attack-surface analysis, and practical security automation.**
 
-**`// I am justice. I am the one who will create a new world — free of vulnerable systems.`**
+I investigate how applications expose risk, validate the conditions behind a finding, and write down a clear route to remediation. My public work connects application-security research with usable tooling, disciplined documentation, and responsible testing.
 
-<br>
+> **Research principle:** authorization first, evidence second, remediation always.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-sarhan-590b72279)   
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
-[![YesWeHack](https://img.shields.io/badge/YesWeHack-212121?style=for-the-badge&logo=yeswehack&logoColor=white)](https://yeswehack.com)
-[![XTIP](https://img.shields.io/badge/XTIP_Platform-FF4444?style=for-the-badge&logoColor=white)](https://xtip.cloud)
-[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mohamedatefsarhan@proton.me)
+## Focus Areas
 
-</div>
+| Area | Current focus |
+|---|---|
+| **Application security** | Web and API testing, authentication and authorization review, OWASP-oriented assessment. |
+| **Attack-surface research** | Mapping exposed assets, correlating signals, and prioritizing what deserves investigation. |
+| **Security validation** | Local, reproducible experiments with controls, scope limits, and clear interpretation. |
+| **Automation** | Practical workflows for intake, triage, approval, routing, and research operations. |
 
----
+## Selected Work
 
-<table border="0">
-<tr>
-<td>
+| Project | Scope | Evidence |
+|---|---|---|
+| [**WC-2026-005 Validation Kit**](https://github.com/MohamedAtefMohamed/wc005-validation) | A local-only WebKit/Safari validation fixture with explicit control cases, structured logging, and a loopback-only safety model. | Python · Bash · GitHub Actions |
+| [**XTIP**](https://xtip.cloud/en) | Co-founding technical work on an explainable attack-surface-management platform that turns discovery signals into manageable external risk. | Product work · attack-surface management |
+| [**n8n Automation Collection**](https://github.com/MohamedAtefMohamed/n8n-automation-workflows) | A private collection of 14 documented workflow exports covering form intake, lead operations, triage, approvals and feedback handling. | Private portfolio work · authorized viewers only |
+| [**0xlight Research Notes**](https://medium.com/@mohamedatefsarhan123) | Public notes and CTF write-ups on vulnerability research and practical security analysis. | Technical writing |
 
-I'm an offensive security engineer and Bug Hunter.  
-I break things for a living, build tools to catch what others miss,  
-and compete in CTFs because sleep is overrated.
+## Research & Engineering Stack
 
-Currently running three threads simultaneously:
-- 🔴 **Bug hunting** — HackerOne · Bugcrowd · YesWeHack
-- 🕸️ **Building [XTIP](https://xtip.cloud)** — threat intel + dark web ASM for SMEs
-- 📖 **OSCP prep** — the grind is ongoing
+**Languages:** Python, Java, Bash, C, and practical JavaScript/TypeScript for web and automation work.
 
-> *"The human whose name is written in this notebook shall die."*  
-> My version: the endpoint whose vuln is written in my report shall be patched.
+**Security practice:** web and API penetration testing, OWASP testing methodology, SIEM-oriented analysis, incident-response foundations, threat intelligence, and security reporting.
 
-</td>
-<td width="280" align="center">
-  <img src="https://media.giphy.com/media/w4AofBqMJ7yk8/giphy.gif" width="350" />
-</td>
-</tr>
-</table>
+**Exploring next:** Go for network-oriented tooling and Rust for robust security utilities.
 
----
+## Technical Record
 
-## ⚔️ Attack Surface
+- **1st place, Exploit3rs FlagRush CTF**
+- **26th global placement, Zinad Cyber Championship 2025**
+- **Co-Founder & Technical Lead, XTIP**
+- **Cybersecurity training and internships** with Telecom Egypt/WE, the National Telecommunication Institute, and related applied programs
 
-```python
-class light0xyagami:
-    identity   = "Offensive Security Engineer · Bug Hunter · CTF Player · Founder"
-    location   = "Cairo, Egypt 🇪🇬"
-    operating_system = ["Kali Linux", "Parrot OS", "Whatever gets root"]
-    
-    weapons    = ["Burp Suite", "Metasploit", "Nmap", "Hydra", "Python", "Bash"]
-    domains    = ["Web Pentesting", "Network Pentesting", "API Security", 
-                  "Active Directory Attacks", "Threat Intelligence", "OSINT"]
-    
-    mindset    = "enumerate everything · trust nothing · document cleanly"
-    currently  = "writing exploits, reading CVEs, and building XTIP"
-```
+These entries describe verified education, project, competition, and training experience. They are not a substitute for a public vulnerability disclosure or an accepted upstream security contribution.
+
+## Current Direction
+
+I am strengthening a small set of well-documented, authorization-aware security projects rather than accumulating empty repositories. The immediate path is to improve reproducible validation tooling, build scope-aware attack-surface utilities, publish careful research notes, and make meaningful upstream contributions when the issue, tests, and maintainer expectations are understood.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-sarhan-590b72279/)
+- [Medium](https://medium.com/@mohamedatefsarhan123)
+- [GitHub](https://github.com/MohamedAtefMohamed)
+- [X](https://x.com/lightx0yagumi)
+- [XTIP](https://xtip.cloud/en)
 
 ---
 
-## 🏆 The Scoreboard
-
-<div align="center">
-
-| 🏅 Achievement | 📊 Details |
-|:---|:---|
-| 🥇 **1st Place — Exploit3rs FlagRush CTF** | 2 First Bloods · only Hard solved · **2,500 AED** |
-| 🌍 **26th Globally — Zinad Cyber Championship 2025** | Hundreds of teams · multi-domain |
-| 🛡️ **78th — CyShield CTF @ Cairo ICT** | Solo web + crypto · team 0xlight |
-| 🚀 **4th — We Innovate Hackathon** | Live dark web demo · XTIP co-founder |
-
-</div>
-
----
-
-## 📡 GitHub Stats
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=MohamedAtefMohamed&theme=dark&hide_border=true&background=0d1117&ring=ff4444&fire=ff4444&currStreakLabel=ff4444)
-
-</div>
-
----
-
-## 🕸️ Currently Hunting
-
-```bash
-$ nmap -sV -sC --open -p- target.com
-
-[*] Enumerating subdomains...
-[*] Fuzzing endpoints...
-[*] Testing authentication logic...
-[*] Checking for IDOR on /api/v2/users/{id}...
-[+] Interesting response at /api/v2/admin/export — 403 Forbidden... let's probe further
-[*] Pivoting...
-```
-
-My methodology isn't a checklist. It's an attacker's intuition wrapped in structure — aggressive recon, business logic analysis, and proof-of-impact reporting. Automation handles the noise. I find the signal.
-
----
-
-## 🧠 What I'm Obsessed With
-
-<div align="center">
-
-![Active Directory](https://img.shields.io/badge/Active%20Directory%20Attacks-1a1a2e?style=flat-square&logoColor=ff4444&color=1a1a2e&labelColor=ff4444)
-![Dark Web OSINT](https://img.shields.io/badge/Dark%20Web%20OSINT-1a1a2e?style=flat-square&color=1a1a2e&labelColor=8b0000)
-![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-1a1a2e?style=flat-square&color=1a1a2e&labelColor=4a0080)
-![OSCP Prep](https://img.shields.io/badge/OSCP%20Prep-1a1a2e?style=flat-square&color=1a1a2e&labelColor=005500)
-![API Security](https://img.shields.io/badge/API%20Security-1a1a2e?style=flat-square&color=1a1a2e&labelColor=004488)
-![Reverse Shells](https://img.shields.io/badge/Reverse%20Shell%20Dev-1a1a2e?style=flat-square&color=1a1a2e&labelColor=884400)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV3cmdoMnozZHRlNDBveXA5bnU1dDRzOWxjeDYxdWgxemF0OG5xbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XH3NIegS0FBc1K8/giphy.gif" width="300" />
-
-**`"I'll solve equations with my right hand and write names with my left."`**  
-*— the hacker mindset, basically*
-
-<br>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=.MohamedAtefMohamed&left_color=black&right_color=red)
-
-<sub>Recruiter? Let's talk. CTF player? Let's team. Running a vulnerable server? I'll find it.</sub>
-
-</div>
+`light0xyagmi` · Egypt · Open to responsible research, security engineering, and collaboration.
