@@ -1,58 +1,31 @@
-# Mohamed Atef
+<div align="center">
 
-**Security researcher and offensive-security builder focused on web and API testing, attack-surface analysis, and practical security automation.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:7f1d1d,100:ef4444&height=260&text=LIGHT0XYAGMI&fontColor=ffffff&fontSize=84&fontAlignY=42&desc=MOHAMED%20ATEF%20%C2%B7%20BUG%20HUNTER&descAlignY=66&descSize=22&section=header" alt="LIGHT0XYAGMI" />
 
-I investigate how applications expose risk, validate the conditions behind a finding, and write down a clear route to remediation. My public work connects application-security research with usable tooling, disciplined documentation, and responsible testing.
+<a href="https://github.com/MohamedAtefMohamed"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=900&lines=Authorization+first.;Evidence+second.;Remediation+always." alt="Typing" /></a>
 
-> **Research principle:** authorization first, evidence second, remediation always.
+<br/>
 
-## Focus Areas
+<a href="https://xtip.cloud/en"><img src="https://img.shields.io/badge/XTIP-xtip.cloud-0a0a0a?style=flat-square&labelColor=b91c1c" alt="XTIP"></a>
+<a href="https://mohamed-atef-portfolio-seven.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-live-0a0a0a?style=flat-square&labelColor=b91c1c" alt="Portfolio"></a>
+<a href="https://medium.com/@mohamedatefsarhan123"><img src="https://img.shields.io/badge/MEDIUM-write--ups-0a0a0a?style=flat-square&labelColor=b91c1c" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/mohamed-sarhan-590b72279/"><img src="https://img.shields.io/badge/LINKEDIN-connect-0a0a0a?style=flat-square&labelColor=b91c1c" alt="LinkedIn"></a>
+<a href="https://x.com/lightx0yagumi"><img src="https://img.shields.io/badge/X-@lightx0yagumi-0a0a0a?style=flat-square&labelColor=b91c1c" alt="X"></a>
 
-| Area | Current focus |
-|---|---|
-| **Application security** | Web and API testing, authentication and authorization review, OWASP-oriented assessment. |
-| **Attack-surface research** | Mapping exposed assets, correlating signals, and prioritizing what deserves investigation. |
-| **Security validation** | Local, reproducible experiments with controls, scope limits, and clear interpretation. |
-| **Automation** | Practical workflows for intake, triage, approval, routing, and research operations. |
+<br/><br/>
 
-## Selected Work
+<table>
+<tr>
+<td align="center"><b>XTIP</b><br/><sub>Co-founder, tech lead.<br/>Explainable threat intel + attack surface.</sub></td>
+<td align="center"><b>BUG BOUNTY</b><br/><sub>Zivver Hall of Fame.<br/>Private Internet Access.</sub></td>
+<td align="center"><b>CTF</b><br/><sub>1st Exploit3rs FlagRush.<br/>26th globally, Zinad 2025.</sub></td>
+</tr>
+</table>
 
-| Project | Scope | Evidence |
-|---|---|---|
-| [**WC-2026-005 Validation Kit**](https://github.com/MohamedAtefMohamed/wc005-validation) | A local-only WebKit/Safari validation fixture with explicit control cases, structured logging, and a loopback-only safety model. | Python · Bash · GitHub Actions |
-| [**XTIP**](https://xtip.cloud/en) | Co-founding technical work on an explainable attack-surface-management platform that turns discovery signals into manageable external risk. | Product work · attack-surface management |
-| [**n8n Automation Collection**](https://github.com/MohamedAtefMohamed/n8n-automation-workflows) | A private collection of 14 documented workflow exports covering form intake, lead operations, triage, approvals and feedback handling. | Private portfolio work · authorized viewers only |
-| [**0xlight Research Notes**](https://medium.com/@mohamedatefsarhan123) | Public notes and CTF write-ups on vulnerability research and practical security analysis. | Technical writing |
+<br/>
 
-## Research & Engineering Stack
+<img src="https://skillicons.dev/icons?i=python,bash,linux,go,js,ts,java,c&theme=dark" alt="Skills" />
 
-**Languages:** Python, Java, Bash, C, and practical JavaScript/TypeScript for web and automation work.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,45:7f1d1d,100:000000&height=120&section=footer&reversal=true&rotate=180" alt="" />
 
-**Security practice:** web and API penetration testing, OWASP testing methodology, SIEM-oriented analysis, incident-response foundations, threat intelligence, and security reporting.
-
-**Exploring next:** Go for network-oriented tooling and Rust for robust security utilities.
-
-## Technical Record
-
-- **1st place, Exploit3rs FlagRush CTF**
-- **26th global placement, Zinad Cyber Championship 2025**
-- **Co-Founder & Technical Lead, XTIP**
-- **Cybersecurity training and internships** with Telecom Egypt/WE, the National Telecommunication Institute, and related applied programs
-
-These entries describe verified education, project, competition, and training experience. They are not a substitute for a public vulnerability disclosure or an accepted upstream security contribution.
-
-## Current Direction
-
-I am strengthening a small set of well-documented, authorization-aware security projects rather than accumulating empty repositories. The immediate path is to improve reproducible validation tooling, build scope-aware attack-surface utilities, publish careful research notes, and make meaningful upstream contributions when the issue, tests, and maintainer expectations are understood.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mohamed-sarhan-590b72279/)
-- [Medium](https://medium.com/@mohamedatefsarhan123)
-- [GitHub](https://github.com/MohamedAtefMohamed)
-- [X](https://x.com/lightx0yagumi)
-- [XTIP](https://xtip.cloud/en)
-
----
-
-`light0xyagmi` · Egypt · Open to responsible research, security engineering, and collaboration.
+</div>
