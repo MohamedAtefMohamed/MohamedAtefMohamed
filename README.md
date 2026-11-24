@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:7f1d1d,100:ef4444&height=260&text=LIGHT0XYAGMI&fontColor=ffffff&fontSize=84&fontAlignY=42&desc=MOHAMED%20ATEF%20%C2%B7%20BUG%20HUNTER&descAlignY=66&descSize=22&section=header" alt="LIGHT0XYAGMI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:7f1d1d,100:ef4444&height=260&text=LIGHT0XYAGMI&fontColor=ffffff&fontSize=84&fontAlignY=42&desc=MOHAMED%20ATEF&descAlignY=66&descSize=22&section=header" alt="LIGHT0XYAGMI" />
 
-<a href="https://github.com/MohamedAtefMohamed"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=900&lines=Authorization+first.;Evidence+second.;Remediation+always." alt="Typing" /></a>
+<a href="https://github.com/MohamedAtefMohamed"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Security+Researcher;Bug+Hunter;Co-founder+%40+XTIP;CTF+Player;Penetration+Tester" alt="Security Researcher, Bug Hunter, Co-founder @ XTIP, CTF Player, Penetration Tester" /></a>
 
 <br/>
 
@@ -25,6 +25,10 @@
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,go,js,ts,java,c&theme=dark" alt="Skills" />
+
+<br/><br/>
+
+<sub><i>Authorization first. Evidence second. Remediation always.</i></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,45:7f1d1d,100:000000&height=120&section=footer&reversal=true&rotate=180" alt="" />
 
